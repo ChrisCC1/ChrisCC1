@@ -6,4 +6,4 @@
 - ⚡ Curiosidade: Eu tenho um gato laranja e uma preto e branco
 -->
 
-<img src="https://img.freepik.com/fotos-premium/um-gato-com-o-polegar-para-cima-dando-um-sinal-de-positivo_910054-26100.jpg">
+<img src="https://media.tenor.com/I0gtZIxAKWEAAAAe/gato-mandando-um-joinha.png">
