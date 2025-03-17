@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5148bbd6-6303-4322-9ac2-277f2318a2eb)## Olá Pessoal! 🌟
+![image](https://github.com/user-attachments/assets/5148bbd6-6303-4322-9ac2-277f2318a2eb) Olá Pessoal! 🌟
 - 📖 Atualmente estou cursando no Entra21.
 - 🌱 Estudando Java.
 - 📫 Email: christiancrescencio2006@gmail.com
