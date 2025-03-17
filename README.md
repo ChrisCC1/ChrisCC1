@@ -6,4 +6,4 @@
 - ⚡ Curiosidade: Eu tenho um gato laranja e uma preto e branco
 -->
 
-<img align="center" alt="gengarwelcome" height="30" width="40" scr="https://64.media.tumblr.com/500d8c5d9803e3c5a96008d013792115/a6da7ec7589ea6b8-c0/s500x750/bc820a5c204b62a2728acf661dc3f609021ca5b8.gifv">
+<img align="center" alt="gengarwelcome" height="30" width="40" scr="https://64.media.tumblr.com/13db66d2cc45b98bb464da182791f236/1ad69ddb8b0bd05d-5d/s500x750/0b173909e53932feeb320a7f33204058f3cf1b7f.gifv">
