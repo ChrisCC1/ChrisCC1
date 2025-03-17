@@ -1,10 +1,8 @@
-## Olá Pessoal! 🌟
+![image](https://github.com/user-attachments/assets/5148bbd6-6303-4322-9ac2-277f2318a2eb)## Olá Pessoal! 🌟
 - 📖 Atualmente estou cursando no Entra21.
 - 🌱 Estudando Java.
 - 📫 Email: christiancrescencio2006@gmail.com
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Eu tenho um gato laranja e uma preto e branco
 -->
-<div>
-<img align="center" alt="gengarwelcome" scr="https://64.media.tumblr.com/13db66d2cc45b98bb464da182791f236/1ad69ddb8b0bd05d-5d/s500x750/0b173909e53932feeb320a7f33204058f3cf1b7f.gifv">
-</div>
+<img scr="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/094_f3.png">
