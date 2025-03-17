@@ -6,5 +6,3 @@
 - ⚡ Curiosidade: Eu tenho um gato laranja e uma preto e branco
 -->
 <img scr="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/094_f3.png">
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
